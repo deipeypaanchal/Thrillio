@@ -3,7 +3,6 @@ package com.thrillio.entities;
 import com.thrillio.constants.BookGenre;
 import com.thrillio.partner.Shareable;
 import org.apache.commons.lang3.StringUtils;
-
 import java.util.Arrays;
 
 public class Book extends Bookmark implements Shareable {
